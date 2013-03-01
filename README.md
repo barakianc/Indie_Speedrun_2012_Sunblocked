@@ -5,7 +5,7 @@ Our entry for the 2012 indie Speedrun Gamejam
 
 This Game mas Made by 
 Christopher Barakian: Gameplay Programing
-Bryan Edelman: Ganeplay Design & Art
+Bryan Edelman: Gameplay Design & Art
 Dennis McGrogan: Level Design & Programming
 Ali Timnak: UI System
 
